@@ -1,0 +1,42 @@
+[
+  {
+    "part": 1,
+    "source": "1794418947402_DAUM_2021Jun30_10h36m48s_Strecke_57089_Teil_1.mat",
+    "rows": 319567,
+    "duration_s": 15978.3,
+    "distance_m": 57089.0,
+    "size_kb": 8246.2
+  },
+  {
+    "part": 2,
+    "source": "1794418947403_DAUM_2021Jun30_10h37m28s_Strecke_113422_Teil_2.mat",
+    "rows": 319567,
+    "duration_s": 15978.3,
+    "distance_m": 56333.0,
+    "size_kb": 7982.2
+  },
+  {
+    "part": 3,
+    "source": "1794418947402_DAUM_2021Jun30_10h38m08s_Strecke_169785_Teil_3.mat",
+    "rows": 319567,
+    "duration_s": 15978.3,
+    "distance_m": 56363.0,
+    "size_kb": 8009.4
+  },
+  {
+    "part": 4,
+    "source": "DAUM_2021Jun30_10h38m49s_Strecke_208036_Teil_4.mat",
+    "rows": 319567,
+    "duration_s": 15978.3,
+    "distance_m": 38251.0,
+    "size_kb": 6926.6
+  },
+  {
+    "part": 5,
+    "source": "DAUM_2021Jun30_10h39m13s_Strecke_208037_Teil_5.mat",
+    "rows": 166554,
+    "duration_s": 8327.7,
+    "distance_m": 1.0,
+    "size_kb": 2441.3
+  }
+]

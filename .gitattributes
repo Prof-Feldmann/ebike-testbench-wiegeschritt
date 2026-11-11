@@ -1,0 +1,2 @@
+*.csv.gz binary
+*.csv text eol=lf

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: >-
+  Out-of-the-saddle load actuation on a biomechanical e-bike durability
+  test bench — measurement data, 30 June 2021
+message: Please cite this dataset if you use it.
+type: dataset
+authors:
+  - family-names: Feldmann
+    given-names: Sebastian
+    orcid: https://orcid.org/0000-0001-6054-7292
+    affiliation: Aalen University of Applied Sciences
+  - family-names: Wiedenmann
+    given-names: Matthias
+    affiliation: Aalen University of Applied Sciences
+date-released: 2026-11-11
+license: CC-BY-4.0            # confirm before publishing
+keywords:
+  - e-bike
+  - durability testing
+  - hardware-in-the-loop
+  - out-of-the-saddle pedalling
+  - force measurement
+# version: 1.0.0
+# doi: 10.5281/zenodo.XXXXXXX   # add after depositing on Zenodo
